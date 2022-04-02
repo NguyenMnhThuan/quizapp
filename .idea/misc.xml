@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/works/FireWork09/app/src/main/res/drawable/empty_back.xml" value="0.21296296296296297" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/drawable/next_btn_shape.xml" value="0.18" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/drawable/share_shape.xml" value="0.21944444444444444" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/drawable/timeout_btn_shape.xml" value="0.21296296296296297" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/layout/activity_won.xml" value="0.25" />
+        <entry key="..\:/works/FireWork09/app/src/main/res/layout/time_out_dialog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
